@@ -1,6 +1,8 @@
 git
 =======
 
+[![Build Status](https://travis-ci.org/swoodford/git.svg?branch=master)](https://travis-ci.org/swoodford/git)
+
 Place these files in your OS X home folder (~/) for advanced git functions
 
 - **.git-completion.bash** Autocomplete for git
