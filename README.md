@@ -12,3 +12,4 @@ Place these files in your OS X home folder (~/) for advanced git functions
 Scripts for working with GitHub
 
 - **clone-repos.sh** This script clones all your GitHub repos for the username specified
+- **migrate-svn-to-git.sh** Migrate SVN to GIT
